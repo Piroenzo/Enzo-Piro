@@ -1,13 +1,13 @@
 [
   {
     "titulo": "Canin",
-    "descripcion": "Sitio web para veterinaria Canin.",
+    "descripcion": "Sitio web para Tienda Canin.",
     "link": "https://canin-9edh.onrender.com/",
     "imagen": "Canin.png"
   },
   {
     "titulo": "Scotto",
-    "descripcion": "Landing page para autos Scotto.",
+    "descripcion": "Pagina para organizacion Scotto.",
     "link": "https://scotto-jrge.onrender.com/",
     "imagen": "Scotto.png"
   }
