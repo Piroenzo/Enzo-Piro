@@ -1,0 +1,14 @@
+[
+  {
+    "titulo": "Canin",
+    "descripcion": "Sitio web para veterinaria Canin.",
+    "link": "https://canin-9edh.onrender.com/",
+    "imagen": "Canin.png"
+  },
+  {
+    "titulo": "Scotto",
+    "descripcion": "Landing page para autos Scotto.",
+    "link": "https://scotto-jrge.onrender.com/",
+    "imagen": "Scotto.png"
+  }
+]
