@@ -10,5 +10,12 @@
     "descripcion": "Pagina para organizacion Scotto.",
     "link": "https://scotto-jrge.onrender.com/",
     "imagen": "Scotto.png"
+  },
+
+  {
+    "titulo": "GYMFIT",
+    "descripcion": "Pagina de Gimnasio.",
+    "link": "https://gymfit-frontend.onrender.com/",
+    "imagen": "Scotto.png"
   }
 ]
